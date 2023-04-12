@@ -18,7 +18,7 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	height: 100vh;
+	min-height: 100vh;
 	padding: 2em 1em;
 	background-color: $light-gray;
 	font-family: 'Outfit', sans-serif;
